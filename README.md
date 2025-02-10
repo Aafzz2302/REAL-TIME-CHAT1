@@ -54,6 +54,10 @@ UI Improvements: Adding animations, sound notifications, and emoji support can e
 Conclusion
 This real-time chat application demonstrates the fundamentals of frontend chat UI development using HTML, CSS, and JavaScript. It provides a simple yet functional messaging system with an intuitive design. By implementing backend integration and real-time communication technologies, this project can be transformed into a fully functional chat application for broader use cases.'
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c4045235-9fa4-41a4-91cc-0b6f3ac5a5e4)
+
 
 
 
